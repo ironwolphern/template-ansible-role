@@ -5,7 +5,7 @@
 ![Release](https://badgen.net/github/release/ironwolphern/template-ansible-role)
 ![PRs](https://badgen.net/github/prs/ironwolphern/template-ansible-role)
 ![Issues](https://badgen.net/github/issues/ironwolphern/template-ansible-role)
-[![Ansible Lint](https://github.com/ironwolphern/template-ansible-role/actions/workflows/ansible-lint.yml/badge.svg?event=pull_request)](https://github.com/ironwolphern/template-ansible-role/actions/workflows/ansible-lint.yml)
+[![Ansible Lint](https://github.com/ironwolphern/template-ansible-role/actions/workflows/ansible-lint.yml/badge.svg)](https://github.com/ironwolphern/template-ansible-role/actions/workflows/ansible-lint.yml)
 ![Dependabot](https://badgen.net/github/dependabot/ironwolphern/template-ansible-role)
 
 A brief description of the role goes here.
