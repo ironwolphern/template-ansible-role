@@ -3,10 +3,11 @@
 # **template-ansible-role**
 
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)
-![License](https://badgen.net/github/license/ironwolphern/template-ansible-role)
-![Release](https://badgen.net/github/release/ironwolphern/template-ansible-role)
-![PRs](https://badgen.net/github/prs/ironwolphern/template-ansible-role)
-![Issues](https://badgen.net/github/issues/ironwolphern/template-ansible-role)
+![GitHub License](https://img.shields.io/github/license/ironwolphern/template-ansible-role)
+![GitHub release (with filter)](https://img.shields.io/github/v/release/ironwolphern/template-ansible-role)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ironwolphern/template-ansible-role)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/ironwolphern/template-ansible-role)
+![GitHub issues](https://img.shields.io/github/issues/ironwolphern/template-ansible-role)
 [![Ansible Lint](https://github.com/ironwolphern/template-ansible-role/actions/workflows/ansible-lint.yml/badge.svg)](https://github.com/ironwolphern/template-ansible-role/actions/workflows/ansible-lint.yml)
 ![Dependabot](https://badgen.net/github/dependabot/ironwolphern/template-ansible-role)
 
@@ -22,9 +23,9 @@ A description of the settable variables for this role should go here, including 
 
 This is a list of required and optinal variables and parameters for this role:
 
-| **Parameter**                  | **Description**            | **Type** |     **Default**     |**Required**|
-|--------------------------------|----------------------------|----------|:-------------------:|:----------:|
-| variable_input        | description             |  type  | default value          |     yes/no     |
+| **Parameter** | **Description** | **Type** | **Default** | **Options** | **Required** |
+|---------------|-----------------|----------|:-----------:|:-----------:|:------------:|
+| variable_input | description | type | default value |  | yes/no |
 
 ## *Dependencies*
 
